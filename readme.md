@@ -1,6 +1,6 @@
 # Build Error App
 
-Demonstrates inconsisten build behaviour: 
+Demonstrates inconsistent build behaviour: 
 With invalid import statement the first build succeeds, the second one fails.
 
 ## How to
