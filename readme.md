@@ -7,6 +7,7 @@ With invalid import statement the first build succeeds, the second one fails.
 First, build the app - which should work fine:
 
 ```bash
+npm ci
 npm run build
 ```
 
