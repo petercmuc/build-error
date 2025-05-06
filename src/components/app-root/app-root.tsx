@@ -3,7 +3,7 @@
 import { Component, h, Event, EventEmitter } from "@stencil/core";
 
 /** Change the path of the import below to provoke an error */
-import { MyType } from "./../../types/myType";
+import { MyType } from "./../types/myType";
 
 @Component({
   tag: "app-root",
